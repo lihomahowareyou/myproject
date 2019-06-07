@@ -1,0 +1,21 @@
+{
+  "name": "myproject",
+  "version": "1.0.0",
+  "description": "This is my project",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/npm/npm.git"
+  },
+  "scripts": {
+    "test": "no test command now"
+  },
+  "keywords": [
+    "myproject"
+  ],
+  "author": "tester",
+  "license": "ISC",
+  "dependencies": {
+    "jquery": "^3.4.1"
+  }
+}
